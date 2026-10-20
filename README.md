@@ -1,4 +1,12 @@
-## Hi there 👋
+自己紹介
+
+名前:渡邊桜佑
+
+所属:鹿児島キャリアデザイン専門ITスペシャリスト科1年
+
+持っているスキル:pythのpaizaCランク相当
+
+趣味・ハマっていること:ゲーム,リンバス、FGO、モンスト、etc..などを浅く広く
 
 <!--
 **ousuke0330/ousuke0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
